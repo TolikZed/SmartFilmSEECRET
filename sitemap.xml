@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='sitemap.xsl'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://seecret.ch/index.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-08-08T07:09:14Z</lastmod>
+  </url>
+  <url>
+    <loc>https://seecret.ch/smartfilm-fr.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-08-08T07:09:14Z</lastmod>
+  </url>
+  <url>
+    <loc>https://seecret.ch/smartfilm-en.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-08-08T07:09:14Z</lastmod>
+  </url>
+  <url>
+    <loc>https://seecret.ch/index-en.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-08-08T07:09:14Z</lastmod>
+  </url>
+</urlset>
